@@ -178,6 +178,41 @@ We would like to extend our heartfelt thanks to:
 
 ---
 
+### **Our Avengers(Volunteers)**
+
+![Avengers](assets/Avengers-4.png)
+
+A big shoutout to our dedicated **50+ volunteers** who worked tirelessly behind the scenes to ensure the event ran smoothly. Their commitment and enthusiasm were instrumental in creating a memorable experience for all attendees.
+
+-   Organizers:
+
+    -   Drijesh Patel (Engineering Manager @ IBM)
+
+        ![Drijesh Patel](assets/Drijesh%20Patel.png)
+
+    -   Neel Shah (Developer Advocate @ Middleware)
+
+        ![Neel Shah](assets/Neel%20Shah.png)
+
+-   Core Team:
+
+    -   Jignesh Gadhavi
+    -   Viral Parmar
+    -   Akshay Mardiya
+    -   Mitesh Pokar
+    -   Bharat Makwana
+    -   Prasant Bhavsar
+    -   Ronit Gandhi
+        ![Core Team](assets/core-team.png)
+
+-   Volunteers:
+    ![Volunteers](assets/Avengers-1.png)
+    Our dedicated volunteers were organized into specialized teams, including the Social Media Team, Graphics Design Team, Documentation Team, Marketing Team, and many more, each contributing their unique skills to ensure the event's success.
+    -   Some memorable moments from our volunteers:
+        ![Volunteer Moments](assets/Avengers-2.png)
+        ![Volunteer Moments](assets/Avengers-3.png)
+        ![Volunteer Moments](assets/Avengers-5.jpg)
+
 ### **Links**
 
 -   [**LinkedIn**](https://www.linkedin.com/company/99956392)

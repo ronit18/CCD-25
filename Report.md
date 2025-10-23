@@ -43,7 +43,7 @@ Attendees enjoyed a dynamic range of engaging activities designed to foster lear
 
 Our social media channels generated exceptional engagement and reach, amplifying the event's impact across the professional community:
 
-**LinkedIn Performance**
+**LinkedIn Performance And Visitor Demographics**
 
 Our event achieved remarkable metrics on LinkedIn, demonstrating strong community interest and engagement:
 
@@ -51,8 +51,6 @@ Our event achieved remarkable metrics on LinkedIn, demonstrating strong communit
 -   **647.2%📈 organic engagement growth** showcasing authentic community participation
 
 ![LinkedIn Reach Analytics](assets/linkedin-reach.jpg)
-
-**Audience Demographics**
 
 Our event attracted a diverse and highly engaged professional audience:
 

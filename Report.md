@@ -24,13 +24,7 @@
 
 On July 5, 2025, Google Cloud Community Day at **Town Hall, Vibrant Gujarat Exhibition Ground** drew **650+ attendees**, with approximately **48% students** and **51% professionals**. The event was supported by **5 sponsor companies** and an energetic team of volunteers.
 
----
-
-### **Our Rockstars**
-
-The program featured **7 speakers** and **2 panel sessions**, including **10 industry experts** and **2 Hosts**. These sessions provided attendees with valuable insights and knowledge.
-
-![Speakers and Panel](assets/SpeakerPanel.jpg)
+![chart](assets/chart.png)
 
 ---
 
@@ -73,6 +67,10 @@ Our social media channels were abuzz with excitement, reaching thousands across 
 ![Social Media Snippets](assets/ccd-25-tags.png)
 
 ### 🎙️ **Rockstars Spotlight**
+
+The program featured **7 speakers** and **2 panel sessions**, including **10 industry experts** and **2 Hosts**. These sessions provided attendees with valuable insights and knowledge.
+
+![Speakers and Panel](assets/SpeakerPanel.jpg)
 
 **Meet Our Speakers**
 

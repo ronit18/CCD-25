@@ -146,10 +146,35 @@ Her vibrant energy and community expertise created an inclusive atmosphere, faci
 We would like to extend our heartfelt thanks to:
 
 -   **Google Developer Groups (GDG)** for their support.
--   **Rezoomex** and **Town Hall, Vibrant Gujarat Exhibition Ground**, our sponsors and venue partner.
--   The incredible volunteers and community partners who made this event possible.
+-   Our **sponsors** for their generous contributions:
+    -   Gold Sponsors:
+        -   Rezoomex
+        -   Weights & Biases
+    -   Silver Sponsors:
+        -   Devops Techlabs
+        -   Utkrusht
+    -   Digital Partner:
+        -   Pict-O-Preserve
+    -   Environment Partner:
+        -   Kindlyy
+-   Our Community Partners for their collaboration and support:
+    -   Ahmedabad Developer Club (ADC)
+    -   Google Developer Groups Gandhinagar
+    -   Java User Group Gujarat
+    -   Exploit Xplorers
+    -   Newbie Coders
+    -   Laravel Ahmedabad
+    -   Google Developer Groups On Campus - Karnavati University
+    -   MindMaze
+    -   Indian Data Club(IDC)
+    -   The Hackers Meetup
+    -   Open Source Weekend
+    -   Hashicorp User Group - Gandhinagar
+    -   Cloud Native Community Groups - Gandhinagar
+    -   Google Developer Student Clubs - Nirma University
+    -   Code-O-Logic
 
-![Acknowledgments](https://github.com/user-attachments/assets/1e04fde0-6250-48e4-a402-d989e78e2e37)
+![Partner Banner](assets/Partner%20Banner.jpg)
 
 ---
 

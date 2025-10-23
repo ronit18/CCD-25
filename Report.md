@@ -5,16 +5,12 @@
 ## Table of Contents
 
 1. [Event Highlights](#event-highlights)
-2. [Our Rockstars](#our-rockstars)
-3. [Event Activities](#event-activities)
-4. [Social Media Impact](#social-media-impact)
-5. [Speaker Sessions Links](#speaker-sessions-links)
-6. [Speaker Spotlight](#speaker-spotlight)
-7. [Testimonials from Our Speakers](#testimonials-from-our-speakers)
-8. [Acknowledgments](#acknowledgments)
-9. [Cool Facts!](#cool-facts)
-10. [Community Partners](#community-partners)
-11. [Links to Sessions and Podcasts](#links-to-sessions-and-podcasts)
+2. [Event Activities](#event-activities)
+3. [Social Media Impact](#social-media-impact)
+4. [Rockstars Spotlight](#-rockstars-spotlight)
+5. [Acknowledgments](#acknowledgments)
+6. [Our Avengers (Volunteers)](#our-avengers-volunteers)
+7. [Links](#links)
 
 ---
 
@@ -22,7 +18,7 @@
 
 ![Event Highlights](assets/event-highlights.jpg)
 
-On July 5, 2025, Google Cloud Community Day at **Town Hall, Vibrant Gujarat Exhibition Ground** drew **650+ attendees**, with approximately **48% students** and **51% professionals**. The event was supported by **5 sponsor companies** and an energetic team of volunteers.
+On **July 5, 2025**, Google Cloud Community Day at **Town Hall, Vibrant Gujarat Exhibition Ground** brought together an impressive community of **650+ attendees**. The event featured a diverse mix of approximately **48% students** and **51% professionals**, supported by **5 sponsor companies** and an enthusiastic team of volunteers.
 
 ![chart](assets/chart.png)
 
@@ -30,14 +26,14 @@ On July 5, 2025, Google Cloud Community Day at **Town Hall, Vibrant Gujarat Exhi
 
 ### **Event Activities**
 
-Attendees enjoyed a variety of engaging activities, including:
+Attendees enjoyed a dynamic range of engaging activities designed to foster learning and connection:
 
--   A musical jamming session 🎶(YES you read it right, that too a Devops Engineer from IBM)
--   A job booth 🧑‍💼
--   Dedicated networking slots 🤝
--   Hands-on workshops and live demo stations 🛠️
--   Interactive sponsor booths and product showcases 🔬
--   Prize draws and community recognition moments 🏆
+-   **Musical Jamming Session** 🎶 — A unique performance by a DevOps Engineer from IBM
+-   **Career Opportunities** 🧑‍💼 — Job booths showcasing exciting roles
+-   **Dedicated Networking Slots** 🤝 — Meaningful conversations and connections
+-   **Hands-on Workshops & Live Demos** 🛠️ — Interactive technical sessions
+-   **Interactive Sponsor Booths** 🔬 — Product showcases and demonstrations
+-   **Prize Draws & Community Recognition** 🏆 — Celebrating attendee participation
 
 ![Activities Collage](assets/collage.jpg)
 
@@ -45,34 +41,44 @@ Attendees enjoyed a variety of engaging activities, including:
 
 ### **Social Media Impact**
 
-Our social media channels were abuzz with excitement, reaching thousands across platforms:
+Our social media channels generated exceptional engagement and reach, amplifying the event's impact across the professional community:
 
--   **LinkedIn Performance:** Our event generated exceptional reach on LinkedIn with **167,721 impressions**, showcasing organic engagement growth of **647.2%**.
-    ![LinkedIn Reach Analytics](assets/linkedin-reach.jpg)
+**LinkedIn Performance**
 
--   **Visitor Demographics:** Our audience was highly diverse and professional:
+Our event achieved remarkable metrics on LinkedIn, demonstrating strong community interest and engagement:
 
-    -   **Entry-level professionals:** 1,168 (32%)
-    -   **Senior professionals:** 622 (17%)
-    -   **Other professionals:** 1,380 (37.8%)
-    -   **Training roles:** 121 (3.3%)
-    -   **Owners:** 112 (3.1%)
-    -   **C-level executives:** 99 (2.7%)
-    -   **Directors:** 69 (1.9%)
-    -   **Managers:** 61 (1.7%)
-    -   **Partners:** 17 (< 1%)
+-   **167,721 impressions** reached across the platform
+-   **647.2%📈 organic engagement growth** showcasing authentic community participation
 
--   **Event Tags:** Attendees shared their event highlights using **#CCDGN25**, including appreciation for the event organization, key learnings on GenAI, Kubernetes, and Cloud technologies, for diverse speakers, and memorable moments from the musical jamming session and panel discussions.
+![LinkedIn Reach Analytics](assets/linkedin-reach.jpg)
+
+**Audience Demographics**
+
+Our event attracted a diverse and highly engaged professional audience:
+
+-   **Entry-level professionals:** 1,168 (32%)
+-   **Other professionals:** 1,380 (37.8%)
+-   **Senior professionals:** 622 (17%)
+-   **Training roles:** 121 (3.3%)
+-   **Owners:** 112 (3.1%)
+-   **C-level executives:** 99 (2.7%)
+-   **Directors:** 69 (1.9%)
+-   **Managers:** 61 (1.7%)
+-   **Partners:** 17 (< 1%)
+
+#### **Event Hashtag & Community Sentiment**
+
+Attendees actively shared their experiences using **#CCDGN25**, highlighting key learnings on GenAI, Kubernetes, and cloud technologies. The community appreciated the diverse speaker lineup, excellent event organization, memorable networking moments, and the unique musical jamming session.
 
 ![Social Media Snippets](assets/ccd-25-tags.png)
 
 ### 🎙️ **Rockstars Spotlight**
 
-The program featured **7 speakers** and **2 panel sessions**, including **10 industry experts** and **2 Hosts**. These sessions provided attendees with valuable insights and knowledge.
+The program featured **7 exceptional speakers** and **2 engaging panel sessions** with **10 industry experts**, along with **2 dynamic hosts**. These sessions delivered valuable insights and actionable knowledge to all attendees.
 
 ![Speakers and Panel](assets/SpeakerPanel.jpg)
 
-**Meet Our Speakers**
+#### **Meet Our Speakers**
 
 | **Speaker**                                                                                                                                        | **Designation**                                                     | **Session Details**                                                                                                                                                                                                                                                               | **Video Link**                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -124,12 +130,9 @@ The program featured **7 speakers** and **2 panel sessions**, including **10 ind
 
     > [Watch Session](https://youtu.be/C-KLN5YT8ao?si=Dy9jaqh-9qNHZ4dU)
 
-**Hosts**
-**Meet Our Hosts**
+#### **Meet Our Hosts**
 
 Our event was brilliantly guided by two exceptional hosts who kept the energy high and ensured seamless flow throughout the day.
-
-Their combined expertise in project management and community engagement made them the perfect duo to guide attendees through an action-packed day of learning, networking, and innovation.
 
 ![Hosts](assets/hosts.png)
 
@@ -139,88 +142,81 @@ Jinal brought exceptional coordination and professionalism to the stage, ensurin
 
 [**Himal Thakker**](https://www.linkedin.com/in/himalthakkar/) — Community Manager @ E2M Solutions
 
-Her vibrant energy and community expertise created an inclusive atmosphere, facilitating meaningful interactions between speakers and attendees throughout the day.
+Himal's vibrant energy and community expertise created an inclusive atmosphere, facilitating meaningful interactions between speakers and attendees throughout the day.
+
+---
 
 ### **Acknowledgments**
 
-We would like to extend our heartfelt thanks to:
+We extend our heartfelt gratitude to everyone who contributed to the success of Google Cloud Community Day Gandhinagar 2025:
 
--   **Google Developer Groups (GDG)** for their support.
--   Our **sponsors** for their generous contributions:
-    -   Gold Sponsors:
-        -   Rezoomex
-        -   Weights & Biases
-    -   Silver Sponsors:
-        -   Devops Techlabs
-        -   Utkrusht
-    -   Digital Partner:
-        -   Pict-O-Preserve
-    -   Environment Partner:
-        -   Kindlyy
--   Our Community Partners for their collaboration and support:
-    -   Ahmedabad Developer Club (ADC)
-    -   Google Developer Groups Gandhinagar
-    -   Java User Group Gujarat
-    -   Exploit Xplorers
-    -   Newbie Coders
-    -   Laravel Ahmedabad
-    -   Google Developer Groups On Campus - Karnavati University
-    -   MindMaze
-    -   Indian Data Club(IDC)
-    -   The Hackers Meetup
-    -   Open Source Weekend
-    -   Hashicorp User Group - Gandhinagar
-    -   Cloud Native Community Groups - Gandhinagar
-    -   Google Developer Student Clubs - Nirma University
-    -   Code-O-Logic
+#### **Our Supporters**
+
+-   **Google Developer Groups (GDG)** — For their strategic support and partnership
+-   **Event Sponsors:**
+    -   **Gold Sponsors:** Rezoomex, Weights & Biases
+    -   **Silver Sponsors:** Devops Techlabs, Utkrusht
+    -   **Digital Partner:** Pict-O-Preserve
+    -   **Environment Partner:** Kindlyy
+-   **Community Partners**:
+    We're grateful to our community partners who helped amplify the event's reach and impact:
+    -   Ahmedabad Developer Club (ADC), Google Developer Groups Gandhinagar, Java User Group Gujarat, Exploit Xplorers, Newbie Coders, Laravel Ahmedabad, Google Developer Groups On Campus - Karnavati University, MindMaze, Indian Data Club (IDC), The Hackers Meetup, Open Source Weekend, Hashicorp User Group - Gandhinagar, Cloud Native Community Groups - Gandhinagar, Google Developer Student Clubs - Nirma University, Code-O-Logic
 
 ![Partner Banner](assets/Partner%20Banner.jpg)
 
 ---
 
-### **Our Avengers(Volunteers)**
+### **Our Avengers (Volunteers)**
 
 ![Avengers](assets/Avengers-4.png)
 
-A big shoutout to our dedicated **50+ volunteers** who worked tirelessly behind the scenes to ensure the event ran smoothly. Their commitment and enthusiasm were instrumental in creating a memorable experience for all attendees.
+A heartfelt shoutout to our incredible **50+ volunteers** who dedicated their time and energy to ensure this event's seamless execution. Their passion, commitment, and enthusiasm were the driving force behind creating a truly memorable experience for all attendees.
 
--   Organizers:
+#### **Organizers**
 
-    -   Drijesh Patel (Engineering Manager @ IBM)
+-   **Drijesh Patel** — Engineering Manager @ IBM
 
-        ![Drijesh Patel](assets/Drijesh%20Patel.png)
+    ![Drijesh Patel](assets/Drijesh%20Patel.png)
 
-    -   Neel Shah (Developer Advocate @ Middleware)
+-   **Neel Shah** — Developer Advocate @ Middleware
 
-        ![Neel Shah](assets/Neel%20Shah.png)
+    ![Neel Shah](assets/Neel%20Shah.png)
 
--   Core Team:
+#### **Core Team**
 
-    -   Jignesh Gadhavi
-    -   Viral Parmar
-    -   Akshay Mardiya
-    -   Mitesh Pokar
-    -   Bharat Makwana
-    -   Prasant Bhavsar
-    -   Ronit Gandhi
-        ![Core Team](assets/core-team.png)
+-   Jignesh Gadhavi
+-   Viral Parmar
+-   Akshay Mardiya
+-   Mitesh Pokar
+-   Bharat Makwana
+-   Prasant Bhavsar
+-   Ronit Gandhi
 
--   Volunteers:
-    ![Volunteers](assets/Avengers-1.png)
-    Our dedicated volunteers were organized into specialized teams, including the Social Media Team, Graphics Design Team, Documentation Team, Marketing Team, and many more, each contributing their unique skills to ensure the event's success.
-    -   Some memorable moments from our volunteers:
-        ![Volunteer Moments](assets/Avengers-2.png)
-        ![Volunteer Moments](assets/Avengers-3.png)
-        ![Volunteer Moments](assets/Avengers-5.jpg)
+![Core Team](assets/core-team.png)
+
+#### **Volunteer Teams**
+
+Our dedicated volunteers were organized into specialized teams including Social Media, Graphics Design, Documentation, Marketing, and more. Each team member brought their unique skills and passion to ensure the event's success.
+![Volunteer Moments](assets/Avengers-1.png)
+
+-   Some of the memorable moments captured during the event:
+    ![Volunteer Moments](assets/Avengers-2.png)
+    ![Volunteer Moments](assets/Avengers-3.png)
+    ![Volunteer Moments](assets/Avengers-5.jpg)
+    ![Volunteer Moments](assets/Avengers-6.jpg)
+    ![Volunteer Moments](assets/Avengers-7.jpg)
 
 ### **Links**
 
--   [**LinkedIn**](https://www.linkedin.com/company/99956392)
--   [**Instagram**](https://www.instagram.com/gdgcloudgn/)
--   [**YouTube**](https://www.youtube.com/@GDGCloudGandhinagar)
--   [**Linktree for Social Media**](https://linktr.ee/gdgcloudgn)
+Stay connected with us across our social media channels:
 
-Thank you to everyone who made Google Cloud Community Day Gandhinagar 2025 a resounding success! We look forward to seeing you next year!
-![Outro](assets/outro.jpg)
+-   [**LinkedIn**](https://www.linkedin.com/company/99956392) — For professional updates and networking
+-   [**Instagram**](https://www.instagram.com/gdgcloudgn/) — For event highlights and community moments
+-   [**YouTube**](https://www.youtube.com/@GDGCloudGandhinagar) — For session recordings and tutorials
+-   [**Linktree for All Social Links**](https://linktr.ee/gdgcloudgn) — Your gateway to all our channels
 
 ---
+
+Thank you to everyone who made Google Cloud Community Day Gandhinagar 2025 an outstanding success! We look forward to seeing you next year for another incredible celebration of cloud technology and community! 🚀
+
+![Outro](assets/outro.jpg)
